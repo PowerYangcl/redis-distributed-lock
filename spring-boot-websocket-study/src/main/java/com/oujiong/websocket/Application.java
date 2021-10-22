@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
- * @Description: 启动类
+ * @Description: 启动类。更多内容请参考：https://www.cnblogs.com/qdhxhz/category/1166311.html
  *
  * @author xub
  * @date 2019/11/11 下午3:39

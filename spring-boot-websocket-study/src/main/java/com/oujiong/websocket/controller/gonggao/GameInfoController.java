@@ -20,7 +20,6 @@ public class GameInfoController {
     @MessageMapping("/gonggao/chat")
     @SendTo("/topic/game_chat")
     public OutMessage gameInfo(InMessage message) {
-
         return new OutMessage(message.getContent());
     }
 
